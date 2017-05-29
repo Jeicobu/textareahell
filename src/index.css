@@ -31,7 +31,7 @@ textarea {
   font-family: arial;
   line-height: 24px;
   white-space: pre-wrap;
-  word-break: break-word;
+  word-wrap: break-word;
   letter-spacing: 2px;
   color: blue;
 
@@ -52,5 +52,5 @@ div {
   line-height: 24px;
   white-space: pre-wrap;
   letter-spacing: 2px;
-  word-break: break-word;
+  word-wrap: break-word;
 }
